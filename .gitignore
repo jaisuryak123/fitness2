@@ -1,0 +1,10 @@
+*.iml
+.gradle/
+.gradle-home/
+build/
+*/build/
+*/*/build/
+local.properties
+.idea/
+.DS_Store
+Thumbs.db
